@@ -1,0 +1,10 @@
+商品采集->抖店商品创建->图片保存->查找图片audit_status-审核状态，1-待审核 2-审核中 3-通过 4-拒绝；注意：只有AuditStatus=3时ByteUrl才会返回；->图片保存成功（通过material_id查找byte_url)->抖店商品保存
+                   |
+                   ->新建文件夹
+
+
+(ok)价格
+(ok)模板ID
+(ok)商品详情
+白底图
+product_format_new
